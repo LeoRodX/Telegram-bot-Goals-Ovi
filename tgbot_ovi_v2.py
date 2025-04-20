@@ -10,7 +10,7 @@ from threading import Thread
 from bs4 import BeautifulSoup
 
 # Токен вашего бота
-TOKEN = '8199513220:AAGl09XIIqzpfF1zlJQIzAinT7tjic38e7c'
+TOKEN = 'MY_TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # Переменная для хранения рекорда
